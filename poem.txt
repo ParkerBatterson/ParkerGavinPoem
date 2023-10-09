@@ -6,3 +6,4 @@ aaa
 don't push before you pull the edit I made!
 okie
 okay great time to start coding
+so how many of these do we have to do
